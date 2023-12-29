@@ -1,4 +1,5 @@
 Random Advice
+
 Descrição do Projeto Este é um projeto simples que utiliza JavaScript para consumir a API de Conselhos Aleatórios e exibir conselhos variados de forma aleatória. A aplicação fornece uma maneira fácil e rápida de obter dicas e orientações diversas.
 
 Funcionalidades • Conselhos Aleatórios: A aplicação consome a Advice Slip JSON API para obter conselhos aleatórios em formato JSON.
